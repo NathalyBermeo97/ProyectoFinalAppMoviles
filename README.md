@@ -47,6 +47,10 @@ Para poder acceder a la publicación de la aplicación de ChatApp se necesita te
 
 [Descargar][4].
 
+# Tabla de Tareas
+
+<img src="https://user-images.githubusercontent.com/56648687/156864466-94668b94-00c5-4345-bbe8-66d0e7bf009e.png"  width="375" >
+
 
 
 
