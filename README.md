@@ -1,22 +1,24 @@
 # ProyectoFinalAppMoviles ChatApp
 
-grupo 4:
+Grupo 4:
 
 * Christian Llumiquinga.
 * Nathaly Bermeo.
 * Michael Guanoluisa.
 
-# Informeacion General
+# Inforación General
 
 la aplicacion puede:
 * Registrar usuario nuevo.
 * Iniciar Sesión.
 * Recuperar contraseña.
+* Visualizar usuarios
+* Buscar usuarios
 * Chat con usuarios registrados en la aplicación.
 * Actualización de foto de perfil.
 
 
-La aplicacion se encuentra desplegada en la tienda de Aptoide con el nombre de ChatApp como se ve en la imagen.
+La aplicación se encuentra desplegada en la tienda de Aptoide con el nombre de ChatApp como se ve en la imagen.
 
 Para poder acceder a la publicación de la aplicación de ChatApp se necesita tener instalado la aplicación de Aptoide, a continuación se muestra el [enlace de descarga](https://com-example-chatapp.es.aptoide.com/?store_name=poli-devs&app_id=61774952)
 
@@ -25,7 +27,7 @@ Para poder acceder a la publicación de la aplicación de ChatApp se necesita te
 
 
 
-# Capturas de Pantalla demostrativa
+# Funcionalidad de la aplicación
 
 
 
