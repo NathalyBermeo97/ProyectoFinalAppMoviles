@@ -6,9 +6,9 @@ Grupo 4:
 * Nathaly Bermeo.
 * Michael Guanoluisa.
 
-# Inforación General
+# Información General
 
-la aplicacion puede:
+La aplicacion puede:
 * Registrar usuario nuevo.
 * Iniciar Sesión.
 * Recuperar contraseña.
@@ -28,6 +28,15 @@ Para poder acceder a la publicación de la aplicación de ChatApp se necesita te
 
 
 # Funcionalidad de la aplicación
+
+Interfaz de inicio
+
+![image](https://user-images.githubusercontent.com/66235614/156866456-631b1335-1dfb-42a7-829e-92c1751eb249.png)
+
+
+Inicio de sesión
+
+![image](https://user-images.githubusercontent.com/66235614/156866430-0d2e3698-8537-4f29-b628-c10495c91c58.png)
 
 
 
