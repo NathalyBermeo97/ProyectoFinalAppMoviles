@@ -66,7 +66,7 @@ Para poder acceder a la publicación de la aplicación de ChatApp se necesita te
  
 
 
-# Link del video explicativo de la funcionalidad
+# Link del video explicativo del código
 [![Alt text](https://img.youtube.com/vi/MQYNJEYvw64/0.jpg)](https://www.youtube.com/watch?v=MQYNJEYvw64)
 
 
