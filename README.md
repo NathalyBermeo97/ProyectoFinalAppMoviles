@@ -59,9 +59,9 @@ Para poder acceder a la publicación de la aplicación de ChatApp se necesita te
 [2]: https://developer.android.com/studio?hl=es-419&gclsrc=ds&gclsrc=ds
 [3]: https://firebase.google.com/?hl=es-419&gclsrc=ds&gclsrc=ds&gclid=CPrMl77srfYCFa_HcwQdAIEOaQ
 [4]: https://drive.google.com/file/d/1H_ewjQ9eOcLtxU8s_vi0jH2LPdNUeJ1e/view?usp=sharing
+[5]: https://youtu.be/Mm29cm0j69U
 
 # Link del video explicativo de la funcionalidad
-
-https://youtu.be/Mm29cm0j69U
+  * [Youtube][5].
 
 
