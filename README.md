@@ -51,32 +51,21 @@ Para poder acceder a la publicación de la aplicación de ChatApp se necesita te
 ![image](https://user-images.githubusercontent.com/66235614/156866628-969e1e6c-7904-42d4-8273-c24f3b6b56bc.png)
 
 
-#Visualización y buscador de usuarios registrados
+# Visualización y buscador de usuarios registrados
 
 ![image](https://user-images.githubusercontent.com/66235614/156866601-f5604530-7a74-4484-8ed6-8552ec40b2e7.png)
 
-#Editar y actualizar foto de perfil
+# Editar y actualizar foto de perfil
 
 ![image](https://user-images.githubusercontent.com/66235614/156866723-69e0ab42-bbf6-4c14-9c38-9df96103ef21.png)
 
-Chat con usuarios de la aplicación
+# Chat con usuarios de la aplicación
 
 ![image](https://user-images.githubusercontent.com/66235614/156866753-004f52b1-5762-4946-a0b4-3ce57d5a65eb.png)
 
 ![image](https://user-images.githubusercontent.com/66235614/156866773-b58e94dd-b268-471e-b873-72e628e2152f.png)
 
 ![image](https://user-images.githubusercontent.com/66235614/156866785-534e1354-f0ec-4550-b07f-59390adeb228.png)
-
-
-
-
-
-<img src="https://user-images.githubusercontent.com/56648687/156862113-d8cabe62-526a-4c7e-a25d-8d576e11f455.jpeg"  width="500" >
-
-<img src="https://user-images.githubusercontent.com/56648687/156862120-ab2e634f-d762-4279-bf83-302121cffc0b.jpeg"  width="500" >
-
-<img src="https://user-images.githubusercontent.com/56648687/156862131-8aba7aac-cb48-497d-9a67-5e3c5f45a04c.jpeg"  width="500" >
-
 
 
 # Tecnologias Usadas
