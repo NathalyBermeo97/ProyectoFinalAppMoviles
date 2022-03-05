@@ -67,6 +67,16 @@ Para poder acceder a la publicación de la aplicación de ChatApp se necesita te
 
 ![image](https://user-images.githubusercontent.com/66235614/156866785-534e1354-f0ec-4550-b07f-59390adeb228.png)
 
+# Datos en firebase
+
+![image](https://user-images.githubusercontent.com/66235614/156866953-dec2d286-3558-47be-b2b7-69d36d9cd5df.png)
+
+![image](https://user-images.githubusercontent.com/66235614/156866924-f1a0fb4f-6fa4-4ef7-8e10-c4a3940c4b4d.png)
+
+![image](https://user-images.githubusercontent.com/66235614/156866944-44c918ab-b2b4-472f-b279-04f9d90d19e7.png)
+
+
+
 
 # Tecnologias Usadas
 
