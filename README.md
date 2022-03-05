@@ -27,7 +27,7 @@ Para poder acceder a la publicación de la aplicación de ChatApp se necesita te
 
 # Capturas de Pantalla demostrativa
 
-<img src="https://user-images.githubusercontent.com/56648687/156862104-8d0ff4db-6e00-4d22-95fe-a256d3a9ee01.jpeg"  width="500" >
+
 
 <img src="https://user-images.githubusercontent.com/56648687/156862113-d8cabe62-526a-4c7e-a25d-8d576e11f455.jpeg"  width="500" >
 
