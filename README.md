@@ -21,7 +21,7 @@ La aplicacion se encuentra desplegada en la tienda de Aptoide con el nombre de C
 Para poder acceder a la publicación de la aplicación de ChatApp se necesita tener instalado la aplicación de Aptoide, a continuación se muestra el [enlace de descarga](https://com-example-chatapp.es.aptoide.com/?store_name=poli-devs&app_id=61774952)
 
 
-<img src="https://com-example-chatapp.es.aptoide.com/?store_name=poli-devs&app_id=61774952"  width="75" >
+<img src="https://user-images.githubusercontent.com/56648687/156861185-f28b6d6f-ecaa-43f9-95ad-bef23229faeb.jpeg"  width="75" >
 
 ![WhatsApp Image 2022-03-04 at 19 35 11](https://user-images.githubusercontent.com/56648687/156861185-f28b6d6f-ecaa-43f9-95ad-bef23229faeb.jpeg)
 
