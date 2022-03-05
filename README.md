@@ -33,9 +33,22 @@ La aplicacion se encuentra desplegada en la tienda de Aptoide con el nombre de C
 
 # Tecnologias Usadas
 
-  * AndroidStudio.
+  * [AndroidStudio][2].
   * [Java][1].
+  * [Firebase][3].
+
+# APK
+
+[Descargar][4].
+
+
+
 
 
 [1]: https://www.java.com/es/download/ie_manual.jsp
+[2]: https://developer.android.com/studio?hl=es-419&gclsrc=ds&gclsrc=ds
+[3]: https://firebase.google.com/?hl=es-419&gclsrc=ds&gclsrc=ds&gclid=CPrMl77srfYCFa_HcwQdAIEOaQ
+[4]: https://drive.google.com/file/d/1H_ewjQ9eOcLtxU8s_vi0jH2LPdNUeJ1e/view?usp=sharing
+
+
 
