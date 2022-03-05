@@ -32,3 +32,10 @@ La aplicacion se encuentra desplegada en la tienda de Aptoide con el nombre de C
 ![WhatsApp Image 2022-03-04 at 20 27 29](https://user-images.githubusercontent.com/56648687/156862131-8aba7aac-cb48-497d-9a67-5e3c5f45a04c.jpeg)
 
 # Tecnologias Usadas
+
+  * AndroidStudio.
+  * [Java][1].
+
+
+[1]: https://www.java.com/es/download/ie_manual.jsp
+
